@@ -25,7 +25,7 @@
             "import definePlugin, { OptionType } from \"@utils/types\";",
             "",
             "const settings = definePluginSettings({",
-            "    ${4:yourSetting}: {",
+            "    ${4:settingName}: {",
             "        description: \"${5:description}\",",
             "        type: OptionType.${6:BOOLEAN},",
             "        default: ${7:true},",
